@@ -1,16 +1,15 @@
 ### Hi there 👋
+ 
+Hello every one, i'm Santiago and i a Jr web developer looking for my first formal job, here you will find my diferent projects.
+If you are a recruiter check my CV at https://santiagoalmiron.github.io/profile/
 
-<!--
-**SantiagoAlmiron/SantiagoAlmiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on "QueAcelga" it an e-commerce website for a friend that has a micro-business.
+- 🌱 I’m currently improving the habilities that i adquired at Le Wagon's bootcamp.
+- which are:
+  * Ruby On Rails
+  * Javascript
+  * SQL, postgreSQL
+  * CSS3/SCSS
+  * HTML5
+  
+---> 📫 How to reach me: sanalmiron@hotmail.com
