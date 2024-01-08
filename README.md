@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-Hello every one, i'm Santiago and i'm Jr web developer looking for improve my skills, here you will find my diferent projects.
+Hello every one, i'm Santiago and i'm SmSr web developer looking for improve my skills, here you will find my diferent projects.
 
 - 🔭 I’m currently working on "Play Business" it's fintech startup.
 - 🌱 I’m currently improving the habilities that i adquired at Le Wagon's bootcamp.
